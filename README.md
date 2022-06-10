@@ -1,2 +1,2 @@
 # Flutter-Automation
-UI Automation Example for a Flutter Application
+UI Automation Example for the Login process of a Flutter Application (https://app.flutterflow.io/run/1E6pv4HAPn7zBGaHYtMx)

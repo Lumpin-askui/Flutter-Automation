@@ -21,11 +21,6 @@ beforeAll(async () => {
   await uiController.start();
 
   aui = await UiControlClient.build({
-    credentials: {
-      tenant: 'askui',
-      email: 'jonas.menesklou@askui.com',
-      token: 'KT9If13mY_oJAlJzf_5B',
-    }
   });
 
   
